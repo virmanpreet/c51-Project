@@ -1,0 +1,40 @@
+h1{
+    background-color:rgb(50,70,150);
+ 
+padding-left: 600px;
+}
+p{
+    border: solid;
+    
+    }
+    ul{
+       border: solid;
+      
+       
+    }
+        
+    img{
+        border:solid;
+    }
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        margin: 40px;
+        font-family: sans-serif;
+        
+    }
+   
+    .origami{
+       
+      border-radius: 20px;
+      background-color: #ffffff;
+      padding: 30px;
+      margin: 25px;
+      width:310px;
+
+    }
+    
+    body{
+        background-color:rgb(170,220,240);
+margin: 0px;
+    }
